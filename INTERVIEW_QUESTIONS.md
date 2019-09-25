@@ -3,7 +3,7 @@
 - Enthusiastic person
 - Career is very important to my overall fullfilment and happiness
 	- Software Engineering gives me flow
-	- I am able to financiall help out family and friends
+	- I am able to financially help out family and friends
 	- Generate ideas that can help out the community
 - Self starter, self taught and I constantly learn, unlearn and relearn
 - Mindful about my workflow and find ways to improve it
@@ -12,7 +12,6 @@
     - Removing as much noise as possible to attain hyper focus
 - Commited to help my employer achieve their goals
     - I do everything that is ethically possible to make the customer happy
-    - Ensure that I get things done in a timely manner
 - See to it that I create more value
     - Mindful about the work flow and the product
     - List existing pains and suggest solutions for it
