@@ -1,2 +1,2 @@
 # me
-A little bit myself
+Get to know me more
