@@ -6,35 +6,35 @@ My answers to common interview questions
 
 - Enthusiastic person
 - Career is very important to my overall fullfilment and happiness
-        - Software Engineering gives me flow
-        - I am able to financiall help out family and friends
-        - Generate ideas that can help out the community
+	- Software Engineering gives me flow
+	- I am able to financiall help out family and friends
+	- Generate ideas that can help out the community
 - Self starter, self taught and I constantly learn, unlearn and relearn
 - Mindful about my workflow and find ways to improve it
-        - I highly value time and plan the week's work in advance
-        - Try to lessen anxiety and stress by finding the right balance for tasks
-        - Removing as much noise as possible to attain hyper focus
+    - I highly value time and plan the week's work in advance
+    - Try to lessen anxiety and stress by finding the right balance for tasks
+    - Removing as much noise as possible to attain hyper focus
 - Commited to help my employer achieve their goals
-        - I do everything that is ethically possible to make the customer happy
-        - Ensure that I get things done in a timely manner
+    - I do everything that is ethically possible to make the customer happy
+    - Ensure that I get things done in a timely manner
 - See to it that I create more value
-        - Mindful about the work flow and the product
-        - List existing pains and suggest solutions for it
+    - Mindful about the work flow and the product
+    - List existing pains and suggest solutions for it
 
 ## Why do you want to work here?
 
 - Have the skills, qualities and experience to carry out the role in high standard
-		- Have remote experience
-		- Perfect fit for the job requirements
-		- Hungry to learn new technology and improve fast
+	- Have remote experience
+	- Perfect fit for the job requirements
+	- Hungry to learn new technology and improve fast
 - Will give me a fresh challenge that I am looking for
-        - I want to transition back to a Software Engineering role
+    - I want to transition back to a Software Engineering role
 - Awesome company!
-		- Growth mindset
-		- Autonomy and lack of corporate bullshit
-		- "A" players only
-		- Pay fairly
-		- Very fulfilled team members
+	- Growth mindset
+	- Autonomy and lack of corporate bullshit
+	- "A" players only
+	- Pay fairly
+	- Very fulfilled team members
 
 ## What are your strengths?
 
@@ -46,17 +46,17 @@ My answers to common interview questions
 ## What are your weaknesses?
 
 - Easily get distracted
-		- Establish very productive working habits
-		- Remove digital noise during work hours
-		- Work environment is crucial
+	- Establish very productive working habits
+	- Remove digital noise during work hours
+	- Work environment is crucial
 - Overthink things leading to analysis paralysis
-		- Define DONE
-		- Setup OKR in advance
-		- Focused work timebox
+	- Define DONE
+	- Setup OKR in advance
+	- Focused work timebox
 - Irritated when people dont deliver
-		- Expect other people to commit to a promise
-		- Try to tell them diplomatically
-		- Ask if there is anything I can help with
+	- Expect other people to commit to a promise
+	- Try to tell them diplomatically
+	- Ask if there is anything I can help with
 
 ## Where do you see yourself in 5 years?
 
@@ -68,9 +68,9 @@ My answers to common interview questions
 ## What makes an awesome team?
 
 - Dedicated and effective leader
-		- Will you go to battle with this guy?
-		- If you are the leader, would you take him in as a subordinate?
-		- Passion and vision
+	- Will you go to battle with this guy?
+	- If you are the leader, would you take him in as a subordinate?
+	- Passion and vision
 - Energy, synergy, ability to focus and deliver
 - Great communication among team members and leader
 - Clear goals to achieve for upcoming timelines
