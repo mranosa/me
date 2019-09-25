@@ -1,7 +1,3 @@
-# Interview Notes
-
-My answers to common interview questions
-
 ## Tell me something about yourself?
 
 - Enthusiastic person
